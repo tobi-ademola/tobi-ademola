@@ -14,7 +14,7 @@ where my interest in field machines started.
 | Project | What it shows |
 |---|---|
 | [**Nano-enhanced CSP + sCO₂ cycle**](https://github.com/tobi-ademola/moo-nehtf-sco2-brayton-cycle) (thesis) | Integrated PySAM plant model; sCO₂ cycle validated node by node against Dostal (2004), all 8 state points within 0.07 % |
-| [**AI virtual mechanical engineering lab**](https://github.com/tobi-ademola/vme-lab) | FEniCS datasets and a Fourier Neural Operator surrogate for 2D transient heat conduction (6.2 % relative L2 error on unseen cases) |
+| [**AI virtual mechanical engineering lab**](https://github.com/tobi-ademola/vme-lab) | Virtual lab where neural surrogates replace FEM/CFD runs; Experiment 1 built: FEniCS data + FNO surrogate for 2D transient heat conduction (6.2 % relative L2 error on unseen cases) |
 | [**Konvoy**](https://github.com/tobi-ademola/konvoy-showcase) | Multi-vehicle dispatch for campus ride-batching, tested in a seeded discrete-event simulator on the real campus road network |
 
 #### Skills
